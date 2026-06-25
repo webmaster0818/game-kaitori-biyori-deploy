@@ -243,4 +243,4 @@
 :HL["/game-consoles.jpg","image"]
 :HL["/chara-sub.jpg","image"]
 :HL["/chara-main.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Zy6qQBYo9opRHa1mgr7FC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"VgPMa_wMWzlchVTxQwCpc"}
