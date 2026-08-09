@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <!-- アンテナ -->
+  <line x1="60" y1="14" x2="60" y2="26" stroke="#059669" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="60" cy="10" r="6" fill="#fbbf24"/>
+  <!-- 顔(ゲーム機型ボディ) -->
+  <rect x="14" y="26" width="92" height="64" rx="20" fill="url(#body)"/>
+  <rect x="22" y="34" width="76" height="48" rx="13" fill="#0f172a"/>
+  <!-- 目 -->
+  <circle cx="46" cy="55" r="7" fill="#a7f3d0">
+    <animate attributeName="r" values="7;7;1.5;7;7" keyTimes="0;0.44;0.5;0.56;1" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="74" cy="55" r="7" fill="#a7f3d0">
+    <animate attributeName="r" values="7;7;1.5;7;7" keyTimes="0;0.44;0.5;0.56;1" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <!-- 口 -->
+  <path d="M50 70 Q60 78 70 70" stroke="#a7f3d0" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- 十字キー(左耳) -->
+  <g fill="#fbbf24">
+    <rect x="2" y="50" width="18" height="7" rx="2"/>
+    <rect x="7.5" y="44.5" width="7" height="18" rx="2"/>
+  </g>
+  <!-- ABボタン(右耳) -->
+  <circle cx="106" cy="49" r="5.5" fill="#f472b6"/>
+  <circle cx="114" cy="60" r="5.5" fill="#60a5fa"/>
+  <!-- 足 -->
+  <rect x="34" y="92" width="16" height="12" rx="6" fill="#059669"/>
+  <rect x="70" y="92" width="16" height="12" rx="6" fill="#059669"/>
+</svg>
