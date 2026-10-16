@@ -241,4 +241,4 @@
 :HL["/_next/static/media/ffb6d03f9c0a2d7d-s.p.0.52jibsvs0ta.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/chara-sub.jpg","image"]
 :HL["/chara-main.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"QgTUcUs9oTxgpabPTcSUR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"kL1mDFU31n-g_UlaRWmxo"}
